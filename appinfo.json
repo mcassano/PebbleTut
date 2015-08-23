@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "mcassano@gmail.com",
+    "longName": "Tutorial 1 - Hello world",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Tutorial 1 - Hello world",
+    "uuid": "532829a2-0bcc-4fb9-9a51-4c470a64e65d",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
